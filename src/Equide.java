@@ -17,5 +17,5 @@ public class Equide {
  endurance += 2 - loto.nextInt(5); // cette fois c'est +=
  esperanceVie = 20;
  age = 0;
- }
+ } 
 }
